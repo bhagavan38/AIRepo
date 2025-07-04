@@ -6,8 +6,6 @@ import requests
 import io
 from PIL import Image
 import os
-import sounddevice as sd
-import soundfile as sf
 import tempfile
 from dotenv import load_dotenv
 import PyPDF2
